@@ -13,3 +13,11 @@ Though this app was devleped for a single store. The application could be rolled
 ![Homescreen](https://github.com/ThibaultLahaye/PriciusScan/blob/master/README/image_0.jpg)
 ![Product Overview](https://github.com/ThibaultLahaye/PriciusScan/blob/master/README/image_1.jpg)
 ![Item Basket](https://github.com/ThibaultLahaye/PriciusScan/blob/master/README/image_2.jpg)
+
+## Mentions
+This application was build in collaboration with @StijnMartens
+
+## Disclaimer
+PriciusScan is a project developed independently and is not affiliated with OnlineFact. Please refer to the OnlineFact documentation and terms of service for information regarding their API usage policies and guidelines.
+
+Royalties for this codebase have been sold to the *small busines owner* mentioned previously. If you want to use this could, you should contact him first. Thsi can be arranged by contacting me. 
