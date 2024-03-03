@@ -8,3 +8,4 @@ The app inplements a barcode scanne, customers can use to access product details
 Built with Dart using the Flutter framework, PriciusScan seamlessly integrates with the OnlineFact cashier system, fetching item information from the cloud via the OnlineFact API.
 
 ## Preview
+<img scr="https://github.com/ThibaultLahaye/PriciusScan/blob/master/README/image_0.jpg" width="100">
