@@ -1,16 +1,10 @@
-# app_pousset
+# PriciusScan
+**"Pricius"* is derived from the Latin word "pretium" meaning "price" and "Scan" refers to the barcode scanning feature.*
+## Project Description
+*PriciusScan* is a mobile application originally designed for a small businesses owner, managing a hardware supply store. It enables the store owner to manage product pricing and information without the need for physical price tags. 
 
-A new Flutter project.
+The app inplements a barcode scanne, customers can use to access product details, including prices, directly on their smartphones. The app also streamlines the purchasing process by allowing users to compile their desired items in a basket on their smartphone and pay at the counter. 
 
-## Getting Started
+Built with Dart using the Flutter framework, PriciusScan seamlessly integrates with the OnlineFact cashier system, fetching item information from the cloud via the OnlineFact API.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
